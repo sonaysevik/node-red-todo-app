@@ -1,0 +1,4 @@
+applications:
+- name: sonay-node-red-to-to-app
+  memory: 256MB
+  instances: 1
